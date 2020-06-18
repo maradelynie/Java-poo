@@ -1,7 +1,7 @@
 # POO Java
 Trabalho de Orientação Objeto em Java para avaliação de disciplina.
 
-## Iniciando o prpjeto
+## Iniciando o projeto
 
 Copie a estrutura de pasta e abra em sua IDE de preferencia (para fazer o porjeto foi usado InteliJ).
 Inicie o servidor Mysql em sua máquina com o serviço de sua preferencia.
